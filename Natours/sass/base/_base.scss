@@ -1,0 +1,17 @@
+/* resets CSS for page */
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  // defines base font for project
+  font-size: 62.5%;
+}
+
+body {
+  box-sizing: border-box;
+}
